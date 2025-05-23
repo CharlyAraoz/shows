@@ -4,7 +4,7 @@ const shows = [
         nombre: "Splash",
         descripcion: "Espectáculo con tambores, agua y efectos de luz.",
         imagen: "ss.jpg",
-        tipo: "show-tecnologico"
+        tipo: "show-magico"
     },
     {
         nombre: "Lasermania",
