@@ -3,7 +3,7 @@ const shows = [
     {
         nombre: "Splash",
         descripcion: "Espectáculo con tambores, agua y efectos de luz.",
-        imagen: "splash.jpg",
+        imagen: "SL1.jpg",
         tipo: "show-tecnologico"
     },
     {
